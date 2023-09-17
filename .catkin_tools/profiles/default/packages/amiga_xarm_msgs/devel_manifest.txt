@@ -1,0 +1,20 @@
+amiga_xarm_msgs
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/cmake.lock /home/sridevi/iowa_ws/devel/./cmake.lock
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/lib/python3/dist-packages/amiga_xarm_msgs/__init__.py /home/sridevi/iowa_ws/devel/lib/python3/dist-packages/amiga_xarm_msgs/__init__.py
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/lib/python3/dist-packages/amiga_xarm_msgs/msg/_Patch.py /home/sridevi/iowa_ws/devel/lib/python3/dist-packages/amiga_xarm_msgs/msg/_Patch.py
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/lib/python3/dist-packages/amiga_xarm_msgs/msg/__init__.py /home/sridevi/iowa_ws/devel/lib/python3/dist-packages/amiga_xarm_msgs/msg/__init__.py
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/lib/pkgconfig/amiga_xarm_msgs.pc /home/sridevi/iowa_ws/devel/lib/pkgconfig/amiga_xarm_msgs.pc
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/share/common-lisp/ros/amiga_xarm_msgs/msg/_package.lisp /home/sridevi/iowa_ws/devel/share/common-lisp/ros/amiga_xarm_msgs/msg/_package.lisp
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/share/common-lisp/ros/amiga_xarm_msgs/msg/Patch.lisp /home/sridevi/iowa_ws/devel/share/common-lisp/ros/amiga_xarm_msgs/msg/Patch.lisp
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/share/common-lisp/ros/amiga_xarm_msgs/msg/amiga_xarm_msgs-msg.asd /home/sridevi/iowa_ws/devel/share/common-lisp/ros/amiga_xarm_msgs/msg/amiga_xarm_msgs-msg.asd
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/share/common-lisp/ros/amiga_xarm_msgs/msg/_package_Patch.lisp /home/sridevi/iowa_ws/devel/share/common-lisp/ros/amiga_xarm_msgs/msg/_package_Patch.lisp
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/share/gennodejs/ros/amiga_xarm_msgs/_index.js /home/sridevi/iowa_ws/devel/share/gennodejs/ros/amiga_xarm_msgs/_index.js
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/share/gennodejs/ros/amiga_xarm_msgs/msg/_index.js /home/sridevi/iowa_ws/devel/share/gennodejs/ros/amiga_xarm_msgs/msg/_index.js
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/share/gennodejs/ros/amiga_xarm_msgs/msg/Patch.js /home/sridevi/iowa_ws/devel/share/gennodejs/ros/amiga_xarm_msgs/msg/Patch.js
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/share/roseus/ros/amiga_xarm_msgs/manifest.l /home/sridevi/iowa_ws/devel/share/roseus/ros/amiga_xarm_msgs/manifest.l
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/share/roseus/ros/amiga_xarm_msgs/msg/Patch.l /home/sridevi/iowa_ws/devel/share/roseus/ros/amiga_xarm_msgs/msg/Patch.l
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/share/amiga_xarm_msgs/cmake/amiga_xarm_msgsConfig-version.cmake /home/sridevi/iowa_ws/devel/share/amiga_xarm_msgs/cmake/amiga_xarm_msgsConfig-version.cmake
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/share/amiga_xarm_msgs/cmake/amiga_xarm_msgs-msg-extras.cmake /home/sridevi/iowa_ws/devel/share/amiga_xarm_msgs/cmake/amiga_xarm_msgs-msg-extras.cmake
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/share/amiga_xarm_msgs/cmake/amiga_xarm_msgsConfig.cmake /home/sridevi/iowa_ws/devel/share/amiga_xarm_msgs/cmake/amiga_xarm_msgsConfig.cmake
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/share/amiga_xarm_msgs/cmake/amiga_xarm_msgs-msg-paths.cmake /home/sridevi/iowa_ws/devel/share/amiga_xarm_msgs/cmake/amiga_xarm_msgs-msg-paths.cmake
+/home/sridevi/iowa_ws/devel/.private/amiga_xarm_msgs/include/amiga_xarm_msgs/Patch.h /home/sridevi/iowa_ws/devel/include/amiga_xarm_msgs/Patch.h

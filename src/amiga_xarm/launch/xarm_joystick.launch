@@ -1,0 +1,4 @@
+<launch>
+  <!-- <node pkg="amiga_xarm"  name="xarm_joystick_node" type="xarm_joystick_node"></node> -->
+  <node pkg="amiga_xarm"  name="xarm_joystick_control" type="xarm_joystick_test"></node>
+</launch>

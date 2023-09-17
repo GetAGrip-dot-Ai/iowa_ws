@@ -1,0 +1,7 @@
+xarm_ros/xarm_vision/camera_demo
+/home/sridevi/iowa_ws/devel/.private/camera_demo/cmake.lock /home/sridevi/iowa_ws/devel/./cmake.lock
+/home/sridevi/iowa_ws/devel/.private/camera_demo/lib/camera_demo/cmake.lock /home/sridevi/iowa_ws/devel/lib/camera_demo/cmake.lock
+/home/sridevi/iowa_ws/devel/.private/camera_demo/lib/camera_demo/color_recognition.py /home/sridevi/iowa_ws/devel/lib/camera_demo/color_recognition.py
+/home/sridevi/iowa_ws/devel/.private/camera_demo/lib/pkgconfig/camera_demo.pc /home/sridevi/iowa_ws/devel/lib/pkgconfig/camera_demo.pc
+/home/sridevi/iowa_ws/devel/.private/camera_demo/share/camera_demo/cmake/camera_demoConfig.cmake /home/sridevi/iowa_ws/devel/share/camera_demo/cmake/camera_demoConfig.cmake
+/home/sridevi/iowa_ws/devel/.private/camera_demo/share/camera_demo/cmake/camera_demoConfig-version.cmake /home/sridevi/iowa_ws/devel/share/camera_demo/cmake/camera_demoConfig-version.cmake

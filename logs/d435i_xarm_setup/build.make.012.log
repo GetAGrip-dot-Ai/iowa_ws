@@ -1,0 +1,7 @@
+[  0%] Built target xarm_msgs_generate_messages_cpp
+[ 16%] [32m[1mLinking CXX executable /home/sridevi/iowa_ws/devel/.private/d435i_xarm_setup/lib/d435i_xarm_setup/obj2base[0m
+[ 33%] [32m[1mLinking CXX executable /home/sridevi/iowa_ws/devel/.private/d435i_xarm_setup/lib/d435i_xarm_setup/findobj2d_grasp_api[0m
+[ 50%] [32m[1mLinking CXX executable /home/sridevi/iowa_ws/devel/.private/d435i_xarm_setup/lib/d435i_xarm_setup/findobj2d_grasp_moveit[0m
+[ 66%] Built target findobj2d_grasp_api
+[ 83%] Built target findobj2d_grasp_moveit
+[100%] Built target obj2base

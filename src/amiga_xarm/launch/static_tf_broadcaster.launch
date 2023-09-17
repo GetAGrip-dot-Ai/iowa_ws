@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="tf2_ros" type="static_transform_publisher" name="base_cam_broadcaster"  args="1 0 0 -1.570796326794897 0 -1.047197551196598" />
+
+</launch>

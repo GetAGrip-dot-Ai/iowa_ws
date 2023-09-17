@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="amiga_control" type="amiga_control.py" name="amiga_control" />
+  <include file="$(find amiga_control)/launch/teleop.launch" />
+</launch>

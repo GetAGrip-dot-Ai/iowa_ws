@@ -1,0 +1,48 @@
+<launch>
+  <arg name="robot_ip" default="192.168.1.214"/>
+  <arg name="joy_dev" default="/dev/input/js0" />
+  <arg name="joystick" default="true" />
+
+    <!-- Define inital position joint space pose parameters -->
+    <!-- <param name="/joint1_init" value="0.0015"/>
+    <param name="/joint2_init" value="-0.3679"/>
+    <param name="/joint3_init" value="-0.5634"/>
+    <param name="/joint4_init" value="0.0031"/>
+    <param name="/joint5_init" value="-0.6015"/>
+    <param name="/joint6_init" value="-0.0028"/> -->
+
+    <!-- Define basket drop position joint space pose parameters -->
+    <!-- <param name="/joint1_basket" value="-1.515"/>
+    <param name="/joint2_basket" value="0.0617"/>
+    <param name="/joint3_basket" value="-1.020"/>
+    <param name="/joint4_basket" value="-0.2411"/>
+    <param name="/joint5_basket" value="-0.6781"/>
+    <param name="/joint6_basket" value="0.1951"/> -->
+
+   <!-- <group ns="joy_teleop"> -->
+
+   <!-- <rosparam command="load" file="$(find visual_servo)/config/teleop_logitech.yaml" />
+    <param name="joy_node/dev" value="$(arg joy_dev)" />
+
+    <node pkg="joy" type="joy_node" name="joy_node" /> -->
+
+    <!-- <node pkg="teleop_twist_joy" type="teleop_node" name="teleop_twist_joy">
+        <remap from="/joy_teleop/cmd_vel" to="/cmd_vel"/>
+    </node> -->
+  <!-- </group> -->
+
+<!--launch file for launching the joystick node and the teleoperation node-->
+  <node name="joystick_node" pkg="joy" type="joy_node"></node>
+
+      <!-- Include and launch visual_servo.launch -->
+  <!-- <include file="$(find visual_servo)/launch/visual_servo.launch"></include> -->
+  
+      <!-- Include and launch visual_servo.launch -->
+  <include file="$(find xarm_bringup)/launch/xarm6_server.launch">
+  <arg name="robot_ip" value="$(arg robot_ip)"/>
+  </include>
+
+  <!-- <include file="$(find ag_gripper_driver)/launch/gripper.launch"></include> -->
+
+  
+</launch>

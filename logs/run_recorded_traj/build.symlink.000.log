@@ -1,0 +1,4 @@
+Symlinking /home/amiga/iowa_ws/devel/lib/run_recorded_traj/xarm_traj_test
+Symlinking /home/amiga/iowa_ws/devel/lib/pkgconfig/run_recorded_traj.pc
+Symlinking /home/amiga/iowa_ws/devel/share/run_recorded_traj/cmake/run_recorded_trajConfig-version.cmake
+Symlinking /home/amiga/iowa_ws/devel/share/run_recorded_traj/cmake/run_recorded_trajConfig.cmake

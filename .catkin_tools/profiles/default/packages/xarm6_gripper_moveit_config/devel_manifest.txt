@@ -1,5 +1,5 @@
 xarm_ros/xarm6_gripper_moveit_config
-/home/sridevi/iowa_ws/devel/.private/xarm6_gripper_moveit_config/cmake.lock /home/sridevi/iowa_ws/devel/./cmake.lock
-/home/sridevi/iowa_ws/devel/.private/xarm6_gripper_moveit_config/lib/pkgconfig/xarm6_gripper_moveit_config.pc /home/sridevi/iowa_ws/devel/lib/pkgconfig/xarm6_gripper_moveit_config.pc
-/home/sridevi/iowa_ws/devel/.private/xarm6_gripper_moveit_config/share/xarm6_gripper_moveit_config/cmake/xarm6_gripper_moveit_configConfig.cmake /home/sridevi/iowa_ws/devel/share/xarm6_gripper_moveit_config/cmake/xarm6_gripper_moveit_configConfig.cmake
-/home/sridevi/iowa_ws/devel/.private/xarm6_gripper_moveit_config/share/xarm6_gripper_moveit_config/cmake/xarm6_gripper_moveit_configConfig-version.cmake /home/sridevi/iowa_ws/devel/share/xarm6_gripper_moveit_config/cmake/xarm6_gripper_moveit_configConfig-version.cmake
+/home/amiga/iowa_ws/devel/.private/xarm6_gripper_moveit_config/cmake.lock /home/amiga/iowa_ws/devel/./cmake.lock
+/home/amiga/iowa_ws/devel/.private/xarm6_gripper_moveit_config/lib/pkgconfig/xarm6_gripper_moveit_config.pc /home/amiga/iowa_ws/devel/lib/pkgconfig/xarm6_gripper_moveit_config.pc
+/home/amiga/iowa_ws/devel/.private/xarm6_gripper_moveit_config/share/xarm6_gripper_moveit_config/cmake/xarm6_gripper_moveit_configConfig.cmake /home/amiga/iowa_ws/devel/share/xarm6_gripper_moveit_config/cmake/xarm6_gripper_moveit_configConfig.cmake
+/home/amiga/iowa_ws/devel/.private/xarm6_gripper_moveit_config/share/xarm6_gripper_moveit_config/cmake/xarm6_gripper_moveit_configConfig-version.cmake /home/amiga/iowa_ws/devel/share/xarm6_gripper_moveit_config/cmake/xarm6_gripper_moveit_configConfig-version.cmake

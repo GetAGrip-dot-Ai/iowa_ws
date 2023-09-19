@@ -1,7 +1,7 @@
 dynamixel-workbench/dynamixel_workbench_operators
-/home/sridevi/iowa_ws/devel/.private/dynamixel_workbench_operators/cmake.lock /home/sridevi/iowa_ws/devel/./cmake.lock
-/home/sridevi/iowa_ws/devel/.private/dynamixel_workbench_operators/lib/dynamixel_workbench_operators/joint_operator /home/sridevi/iowa_ws/devel/lib/dynamixel_workbench_operators/joint_operator
-/home/sridevi/iowa_ws/devel/.private/dynamixel_workbench_operators/lib/dynamixel_workbench_operators/wheel_operator /home/sridevi/iowa_ws/devel/lib/dynamixel_workbench_operators/wheel_operator
-/home/sridevi/iowa_ws/devel/.private/dynamixel_workbench_operators/lib/pkgconfig/dynamixel_workbench_operators.pc /home/sridevi/iowa_ws/devel/lib/pkgconfig/dynamixel_workbench_operators.pc
-/home/sridevi/iowa_ws/devel/.private/dynamixel_workbench_operators/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig.cmake /home/sridevi/iowa_ws/devel/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig.cmake
-/home/sridevi/iowa_ws/devel/.private/dynamixel_workbench_operators/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig-version.cmake /home/sridevi/iowa_ws/devel/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig-version.cmake
+/home/amiga/iowa_ws/devel/.private/dynamixel_workbench_operators/cmake.lock /home/amiga/iowa_ws/devel/./cmake.lock
+/home/amiga/iowa_ws/devel/.private/dynamixel_workbench_operators/lib/pkgconfig/dynamixel_workbench_operators.pc /home/amiga/iowa_ws/devel/lib/pkgconfig/dynamixel_workbench_operators.pc
+/home/amiga/iowa_ws/devel/.private/dynamixel_workbench_operators/lib/dynamixel_workbench_operators/joint_operator /home/amiga/iowa_ws/devel/lib/dynamixel_workbench_operators/joint_operator
+/home/amiga/iowa_ws/devel/.private/dynamixel_workbench_operators/lib/dynamixel_workbench_operators/wheel_operator /home/amiga/iowa_ws/devel/lib/dynamixel_workbench_operators/wheel_operator
+/home/amiga/iowa_ws/devel/.private/dynamixel_workbench_operators/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig.cmake /home/amiga/iowa_ws/devel/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig.cmake
+/home/amiga/iowa_ws/devel/.private/dynamixel_workbench_operators/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig-version.cmake /home/amiga/iowa_ws/devel/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig-version.cmake

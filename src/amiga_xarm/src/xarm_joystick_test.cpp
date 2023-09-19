@@ -311,7 +311,7 @@ void JoystickController::timer_Callback(const ros::TimerEvent &)
 int main(int argc, char **argv)
 {
   ros::init(argc, argv, "xarm_jostick_teleop_test");
-  const std::string robot_ip = "192.168.1.214";
+  const std::string robot_ip = "192.168.1.196";
   JoystickController teleop_turtle(robot_ip, FREQUENCY);
   ros::spin();
 }

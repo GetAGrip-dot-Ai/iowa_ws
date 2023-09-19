@@ -1,7 +1,7 @@
 xarm_ros/xarm_gazebo
-/home/sridevi/iowa_ws/devel/.private/xarm_gazebo/cmake.lock /home/sridevi/iowa_ws/devel/./cmake.lock
-/home/sridevi/iowa_ws/devel/.private/xarm_gazebo/lib/xarm_gazebo/cmake.lock /home/sridevi/iowa_ws/devel/lib/xarm_gazebo/cmake.lock
-/home/sridevi/iowa_ws/devel/.private/xarm_gazebo/lib/xarm_gazebo/color_recognition.py /home/sridevi/iowa_ws/devel/lib/xarm_gazebo/color_recognition.py
-/home/sridevi/iowa_ws/devel/.private/xarm_gazebo/lib/pkgconfig/xarm_gazebo.pc /home/sridevi/iowa_ws/devel/lib/pkgconfig/xarm_gazebo.pc
-/home/sridevi/iowa_ws/devel/.private/xarm_gazebo/share/xarm_gazebo/cmake/xarm_gazeboConfig-version.cmake /home/sridevi/iowa_ws/devel/share/xarm_gazebo/cmake/xarm_gazeboConfig-version.cmake
-/home/sridevi/iowa_ws/devel/.private/xarm_gazebo/share/xarm_gazebo/cmake/xarm_gazeboConfig.cmake /home/sridevi/iowa_ws/devel/share/xarm_gazebo/cmake/xarm_gazeboConfig.cmake
+/home/amiga/iowa_ws/devel/.private/xarm_gazebo/cmake.lock /home/amiga/iowa_ws/devel/./cmake.lock
+/home/amiga/iowa_ws/devel/.private/xarm_gazebo/lib/xarm_gazebo/cmake.lock /home/amiga/iowa_ws/devel/lib/xarm_gazebo/cmake.lock
+/home/amiga/iowa_ws/devel/.private/xarm_gazebo/lib/xarm_gazebo/color_recognition.py /home/amiga/iowa_ws/devel/lib/xarm_gazebo/color_recognition.py
+/home/amiga/iowa_ws/devel/.private/xarm_gazebo/lib/pkgconfig/xarm_gazebo.pc /home/amiga/iowa_ws/devel/lib/pkgconfig/xarm_gazebo.pc
+/home/amiga/iowa_ws/devel/.private/xarm_gazebo/share/xarm_gazebo/cmake/xarm_gazeboConfig-version.cmake /home/amiga/iowa_ws/devel/share/xarm_gazebo/cmake/xarm_gazeboConfig-version.cmake
+/home/amiga/iowa_ws/devel/.private/xarm_gazebo/share/xarm_gazebo/cmake/xarm_gazeboConfig.cmake /home/amiga/iowa_ws/devel/share/xarm_gazebo/cmake/xarm_gazeboConfig.cmake

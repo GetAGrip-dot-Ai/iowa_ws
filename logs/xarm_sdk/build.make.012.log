@@ -1,4 +1,0 @@
-[  0%] Built target _catkin_empty_exported_target
-[  3%] [32mBuilding CXX object CMakeFiles/xarm_cxx_sdk.dir/cxx/src/xarm/wrapper/xarm_api.cc.o[0m
-[  6%] [32m[1mLinking CXX shared library /home/sridevi/iowa_ws/devel/.private/xarm_sdk/lib/libxarm_cxx_sdk.so[0m
-[100%] Built target xarm_cxx_sdk

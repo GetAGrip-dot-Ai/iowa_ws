@@ -1,7 +1,7 @@
 amiga_control
-/home/sridevi/iowa_ws/devel/.private/amiga_control/cmake.lock /home/sridevi/iowa_ws/devel/./cmake.lock
-/home/sridevi/iowa_ws/devel/.private/amiga_control/lib/amiga_control/amiga_control.py /home/sridevi/iowa_ws/devel/lib/amiga_control/amiga_control.py
-/home/sridevi/iowa_ws/devel/.private/amiga_control/lib/amiga_control/cmake.lock /home/sridevi/iowa_ws/devel/lib/amiga_control/cmake.lock
-/home/sridevi/iowa_ws/devel/.private/amiga_control/lib/pkgconfig/amiga_control.pc /home/sridevi/iowa_ws/devel/lib/pkgconfig/amiga_control.pc
-/home/sridevi/iowa_ws/devel/.private/amiga_control/share/amiga_control/cmake/amiga_controlConfig-version.cmake /home/sridevi/iowa_ws/devel/share/amiga_control/cmake/amiga_controlConfig-version.cmake
-/home/sridevi/iowa_ws/devel/.private/amiga_control/share/amiga_control/cmake/amiga_controlConfig.cmake /home/sridevi/iowa_ws/devel/share/amiga_control/cmake/amiga_controlConfig.cmake
+/home/amiga/iowa_ws/devel/.private/amiga_control/cmake.lock /home/amiga/iowa_ws/devel/./cmake.lock
+/home/amiga/iowa_ws/devel/.private/amiga_control/lib/amiga_control/cmake.lock /home/amiga/iowa_ws/devel/lib/amiga_control/cmake.lock
+/home/amiga/iowa_ws/devel/.private/amiga_control/lib/amiga_control/amiga_control.py /home/amiga/iowa_ws/devel/lib/amiga_control/amiga_control.py
+/home/amiga/iowa_ws/devel/.private/amiga_control/lib/pkgconfig/amiga_control.pc /home/amiga/iowa_ws/devel/lib/pkgconfig/amiga_control.pc
+/home/amiga/iowa_ws/devel/.private/amiga_control/share/amiga_control/cmake/amiga_controlConfig-version.cmake /home/amiga/iowa_ws/devel/share/amiga_control/cmake/amiga_controlConfig-version.cmake
+/home/amiga/iowa_ws/devel/.private/amiga_control/share/amiga_control/cmake/amiga_controlConfig.cmake /home/amiga/iowa_ws/devel/share/amiga_control/cmake/amiga_controlConfig.cmake

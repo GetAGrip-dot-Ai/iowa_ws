@@ -1,2 +1,2 @@
 dynamixel-workbench/dynamixel_workbench
-/home/sridevi/iowa_ws/devel/.private/dynamixel_workbench/cmake.lock /home/sridevi/iowa_ws/devel/./cmake.lock
+/home/amiga/iowa_ws/devel/.private/dynamixel_workbench/cmake.lock /home/amiga/iowa_ws/devel/./cmake.lock

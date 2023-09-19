@@ -1,0 +1,5 @@
+Symlinking /home/amiga/iowa_ws/devel/lib/pkgconfig/dynamixel_workbench_operators.pc
+Symlinking /home/amiga/iowa_ws/devel/lib/dynamixel_workbench_operators/joint_operator
+Symlinking /home/amiga/iowa_ws/devel/lib/dynamixel_workbench_operators/wheel_operator
+Symlinking /home/amiga/iowa_ws/devel/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig.cmake
+Symlinking /home/amiga/iowa_ws/devel/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig-version.cmake

@@ -1,6 +1,6 @@
 xarm_ros/xarm_sdk
-/home/amiga/iowa_ws/devel/.private/xarm_sdk/cmake.lock /home/amiga/iowa_ws/devel/./cmake.lock
-/home/amiga/iowa_ws/devel/.private/xarm_sdk/lib/libxarm_cxx_sdk.so /home/amiga/iowa_ws/devel/lib/libxarm_cxx_sdk.so
-/home/amiga/iowa_ws/devel/.private/xarm_sdk/lib/pkgconfig/xarm_sdk.pc /home/amiga/iowa_ws/devel/lib/pkgconfig/xarm_sdk.pc
-/home/amiga/iowa_ws/devel/.private/xarm_sdk/share/xarm_sdk/cmake/xarm_sdkConfig-version.cmake /home/amiga/iowa_ws/devel/share/xarm_sdk/cmake/xarm_sdkConfig-version.cmake
-/home/amiga/iowa_ws/devel/.private/xarm_sdk/share/xarm_sdk/cmake/xarm_sdkConfig.cmake /home/amiga/iowa_ws/devel/share/xarm_sdk/cmake/xarm_sdkConfig.cmake
+/home/sridevi/Documents/iowa_ws/devel/.private/xarm_sdk/cmake.lock /home/sridevi/Documents/iowa_ws/devel/./cmake.lock
+/home/sridevi/Documents/iowa_ws/devel/.private/xarm_sdk/lib/libxarm_cxx_sdk.so /home/sridevi/Documents/iowa_ws/devel/lib/libxarm_cxx_sdk.so
+/home/sridevi/Documents/iowa_ws/devel/.private/xarm_sdk/lib/pkgconfig/xarm_sdk.pc /home/sridevi/Documents/iowa_ws/devel/lib/pkgconfig/xarm_sdk.pc
+/home/sridevi/Documents/iowa_ws/devel/.private/xarm_sdk/share/xarm_sdk/cmake/xarm_sdkConfig.cmake /home/sridevi/Documents/iowa_ws/devel/share/xarm_sdk/cmake/xarm_sdkConfig.cmake
+/home/sridevi/Documents/iowa_ws/devel/.private/xarm_sdk/share/xarm_sdk/cmake/xarm_sdkConfig-version.cmake /home/sridevi/Documents/iowa_ws/devel/share/xarm_sdk/cmake/xarm_sdkConfig-version.cmake

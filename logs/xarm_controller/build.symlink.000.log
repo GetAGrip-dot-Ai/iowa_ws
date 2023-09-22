@@ -1,8 +1,8 @@
-Symlinking /home/amiga/iowa_ws/devel/lib/libxarm_combined_hw.so
-Symlinking /home/amiga/iowa_ws/devel/lib/libxarm_hw.so
-Symlinking /home/amiga/iowa_ws/devel/lib/pkgconfig/xarm_controller.pc
-Symlinking /home/amiga/iowa_ws/devel/lib/xarm_controller/xarm_combined_traj_controller
-Symlinking /home/amiga/iowa_ws/devel/lib/xarm_controller/sample_motion
-Symlinking /home/amiga/iowa_ws/devel/lib/xarm_controller/uf_ros_controller
-Symlinking /home/amiga/iowa_ws/devel/share/xarm_controller/cmake/xarm_controllerConfig-version.cmake
-Symlinking /home/amiga/iowa_ws/devel/share/xarm_controller/cmake/xarm_controllerConfig.cmake
+Symlinking /home/sridevi/Documents/iowa_ws/devel/lib/libxarm_hw.so
+Symlinking /home/sridevi/Documents/iowa_ws/devel/lib/libxarm_combined_hw.so
+Symlinking /home/sridevi/Documents/iowa_ws/devel/lib/xarm_controller/uf_ros_controller
+Symlinking /home/sridevi/Documents/iowa_ws/devel/lib/xarm_controller/xarm_combined_traj_controller
+Symlinking /home/sridevi/Documents/iowa_ws/devel/lib/xarm_controller/sample_motion
+Symlinking /home/sridevi/Documents/iowa_ws/devel/lib/pkgconfig/xarm_controller.pc
+Symlinking /home/sridevi/Documents/iowa_ws/devel/share/xarm_controller/cmake/xarm_controllerConfig.cmake
+Symlinking /home/sridevi/Documents/iowa_ws/devel/share/xarm_controller/cmake/xarm_controllerConfig-version.cmake

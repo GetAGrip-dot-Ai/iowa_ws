@@ -1,5 +1,5 @@
 xarm_ros/xarm_bringup
-/home/amiga/iowa_ws/devel/.private/xarm_bringup/cmake.lock /home/amiga/iowa_ws/devel/./cmake.lock
-/home/amiga/iowa_ws/devel/.private/xarm_bringup/lib/pkgconfig/xarm_bringup.pc /home/amiga/iowa_ws/devel/lib/pkgconfig/xarm_bringup.pc
-/home/amiga/iowa_ws/devel/.private/xarm_bringup/share/xarm_bringup/cmake/xarm_bringupConfig-version.cmake /home/amiga/iowa_ws/devel/share/xarm_bringup/cmake/xarm_bringupConfig-version.cmake
-/home/amiga/iowa_ws/devel/.private/xarm_bringup/share/xarm_bringup/cmake/xarm_bringupConfig.cmake /home/amiga/iowa_ws/devel/share/xarm_bringup/cmake/xarm_bringupConfig.cmake
+/home/sridevi/Documents/iowa_ws/devel/.private/xarm_bringup/cmake.lock /home/sridevi/Documents/iowa_ws/devel/./cmake.lock
+/home/sridevi/Documents/iowa_ws/devel/.private/xarm_bringup/lib/pkgconfig/xarm_bringup.pc /home/sridevi/Documents/iowa_ws/devel/lib/pkgconfig/xarm_bringup.pc
+/home/sridevi/Documents/iowa_ws/devel/.private/xarm_bringup/share/xarm_bringup/cmake/xarm_bringupConfig-version.cmake /home/sridevi/Documents/iowa_ws/devel/share/xarm_bringup/cmake/xarm_bringupConfig-version.cmake
+/home/sridevi/Documents/iowa_ws/devel/.private/xarm_bringup/share/xarm_bringup/cmake/xarm_bringupConfig.cmake /home/sridevi/Documents/iowa_ws/devel/share/xarm_bringup/cmake/xarm_bringupConfig.cmake

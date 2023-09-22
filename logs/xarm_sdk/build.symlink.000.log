@@ -1,4 +1,4 @@
-Symlinking /home/amiga/iowa_ws/devel/lib/libxarm_cxx_sdk.so
-Symlinking /home/amiga/iowa_ws/devel/lib/pkgconfig/xarm_sdk.pc
-Symlinking /home/amiga/iowa_ws/devel/share/xarm_sdk/cmake/xarm_sdkConfig-version.cmake
-Symlinking /home/amiga/iowa_ws/devel/share/xarm_sdk/cmake/xarm_sdkConfig.cmake
+Symlinking /home/sridevi/Documents/iowa_ws/devel/lib/libxarm_cxx_sdk.so
+Symlinking /home/sridevi/Documents/iowa_ws/devel/lib/pkgconfig/xarm_sdk.pc
+Symlinking /home/sridevi/Documents/iowa_ws/devel/share/xarm_sdk/cmake/xarm_sdkConfig.cmake
+Symlinking /home/sridevi/Documents/iowa_ws/devel/share/xarm_sdk/cmake/xarm_sdkConfig-version.cmake

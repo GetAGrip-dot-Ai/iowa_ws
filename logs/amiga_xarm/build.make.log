@@ -1,28 +1,28 @@
-[  0%] Built target geometry_msgs_generate_messages_py
-[  0%] Built target std_msgs_generate_messages_cpp
-[  0%] Built target std_msgs_generate_messages_py
-[  0%] Built target geometry_msgs_generate_messages_eus
-[  0%] Built target std_msgs_generate_messages_eus
-[  0%] Built target sensor_msgs_generate_messages_eus
 [  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_cpp
 [  0%] Built target std_msgs_generate_messages_lisp
 [  0%] Built target geometry_msgs_generate_messages_nodejs
-[  0%] Built target geometry_msgs_generate_messages_cpp
-[  0%] Built target sensor_msgs_generate_messages_cpp
-[  0%] Built target std_msgs_generate_messages_nodejs
 [  0%] Built target sensor_msgs_generate_messages_lisp
-[  0%] Built target sensor_msgs_generate_messages_nodejs
-[  0%] Built target xarm_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
 [  0%] Built target geometry_msgs_generate_messages_lisp
-[ 15%] Built target xarm_joystick_test
-[ 23%] [32mBuilding CXX object CMakeFiles/xarm_joystick_node.dir/src/xarm_joystick_node.cpp.o[0m
-[ 38%] Built target eggmass_scrapper_node
-[ 38%] Built target _amiga_xarm_generate_messages_check_deps_Patch
-[ 61%] Built target amiga_xarm_generate_messages_py
-[ 61%] Built target amiga_xarm_generate_messages_cpp
-[ 69%] Built target amiga_xarm_generate_messages_lisp
-[ 84%] Built target amiga_xarm_generate_messages_eus
+[  0%] Built target xarm_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[ 15%] Built target eggmass_scrapper_node
+[ 23%] [32mBuilding CXX object CMakeFiles/xarm_joystick_test.dir/src/xarm_joystick_test.cpp.o[0m
+[ 23%] Built target _amiga_xarm_generate_messages_check_deps_Patch
+[ 38%] Built target xarm_joystick_node
+[ 53%] Built target amiga_xarm_generate_messages_py
+[ 76%] Built target amiga_xarm_generate_messages_eus
+[ 76%] Built target amiga_xarm_generate_messages_cpp
+[ 84%] Built target amiga_xarm_generate_messages_lisp
 [ 92%] Built target amiga_xarm_generate_messages_nodejs
 [ 92%] Built target amiga_xarm_generate_messages
-[100%] [32m[1mLinking CXX executable /home/amiga/iowa_ws/devel/.private/amiga_xarm/lib/amiga_xarm/xarm_joystick_node[0m
-[100%] Built target xarm_joystick_node
+[100%] [32m[1mLinking CXX executable /home/sridevi/Documents/iowa_ws/devel/.private/amiga_xarm/lib/amiga_xarm/xarm_joystick_test[0m
+[100%] Built target xarm_joystick_test

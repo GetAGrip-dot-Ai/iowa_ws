@@ -1,6 +1,6 @@
-Symlinking /home/amiga/iowa_ws/devel/lib/pkgconfig/d435i_xarm_setup.pc
-Symlinking /home/amiga/iowa_ws/devel/lib/d435i_xarm_setup/findobj2d_grasp_api
-Symlinking /home/amiga/iowa_ws/devel/lib/d435i_xarm_setup/findobj2d_grasp_moveit
-Symlinking /home/amiga/iowa_ws/devel/lib/d435i_xarm_setup/obj2base
-Symlinking /home/amiga/iowa_ws/devel/share/d435i_xarm_setup/cmake/d435i_xarm_setupConfig-version.cmake
-Symlinking /home/amiga/iowa_ws/devel/share/d435i_xarm_setup/cmake/d435i_xarm_setupConfig.cmake
+Symlinking /home/sridevi/Documents/iowa_ws/devel/lib/d435i_xarm_setup/findobj2d_grasp_moveit
+Symlinking /home/sridevi/Documents/iowa_ws/devel/lib/d435i_xarm_setup/findobj2d_grasp_api
+Symlinking /home/sridevi/Documents/iowa_ws/devel/lib/d435i_xarm_setup/obj2base
+Symlinking /home/sridevi/Documents/iowa_ws/devel/lib/pkgconfig/d435i_xarm_setup.pc
+Symlinking /home/sridevi/Documents/iowa_ws/devel/share/d435i_xarm_setup/cmake/d435i_xarm_setupConfig-version.cmake
+Symlinking /home/sridevi/Documents/iowa_ws/devel/share/d435i_xarm_setup/cmake/d435i_xarm_setupConfig.cmake

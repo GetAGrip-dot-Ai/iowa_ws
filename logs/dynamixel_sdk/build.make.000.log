@@ -1,12 +1,12 @@
-[  0%] Built target roscpp_generate_messages_cpp
 [  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_cpp
 [  0%] Built target roscpp_generate_messages_eus
 [  0%] Built target roscpp_generate_messages_lisp
-[  0%] Built target roscpp_generate_messages_py
 [  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_py
 [  0%] Built target rosgraph_msgs_generate_messages_cpp
-[  0%] Built target rosgraph_msgs_generate_messages_lisp
 [  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
 [  0%] Built target rosgraph_msgs_generate_messages_nodejs
 [  0%] Built target rosgraph_msgs_generate_messages_py
 [  0%] Built target std_msgs_generate_messages_cpp
@@ -17,7 +17,7 @@
 [ 20%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/protocol1_packet_handler.cpp.o[0m
 [ 30%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/protocol2_packet_handler.cpp.o[0m
 [ 40%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/group_sync_read.cpp.o[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/group_sync_write.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/group_sync_write.cpp.o[0m
 [ 60%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/group_bulk_read.cpp.o[0m
 [ 70%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/group_bulk_write.cpp.o[0m
 [ 80%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/port_handler.cpp.o[0m

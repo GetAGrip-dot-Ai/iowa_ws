@@ -31,6 +31,7 @@ class MotorDriverROSWrapper:
         self.reset_pos = copy.copy(self.q_zero)
         #run calibration
         self.calibrate()
+        "print here!"
 
         # close gripper and cutter msg
         self.close_msg = JointTrajectory()
@@ -66,6 +67,7 @@ class MotorDriverROSWrapper:
 
         # start service
         self.service = rospy.Service('/gripper_service', Pegasus, self.run)
+        rospy.loginfo("gripper service started!")
 
         
 

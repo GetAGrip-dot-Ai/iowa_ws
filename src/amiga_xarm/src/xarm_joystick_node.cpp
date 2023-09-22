@@ -342,13 +342,13 @@ void JoystickController::joyCallback(const sensor_msgs::Joy::ConstPtr &joy)
   }
   trigger_state = joy->buttons[1];
 
-  // Replay Trigger ===
-  bool replay_trigger_released = (joy->buttons[2] != replay_trigger_state) && joy->buttons[2];
-  if (replay_trigger_released)
-  {
-    replay("test.traj");
-  }
-  replay_trigger_state = joy->buttons[2];
+  // // Replay Trigger ===
+  // bool replay_trigger_released = (joy->buttons[2] != replay_trigger_state) && joy->buttons[2];
+  // if (replay_trigger_released)
+  // {
+  //   replay("test.traj");
+  // }
+  // replay_trigger_state = joy->buttons[2];
 }
 
 void JoystickController::timer_Callback(const ros::TimerEvent &)

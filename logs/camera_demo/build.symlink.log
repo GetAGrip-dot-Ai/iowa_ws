@@ -1,5 +1,5 @@
-Linked: (/home/amiga/iowa_ws/devel/.private/camera_demo/lib/camera_demo/cmake.lock, /home/amiga/iowa_ws/devel/lib/camera_demo/cmake.lock)
-Linked: (/home/amiga/iowa_ws/devel/.private/camera_demo/lib/camera_demo/color_recognition.py, /home/amiga/iowa_ws/devel/lib/camera_demo/color_recognition.py)
-Linked: (/home/amiga/iowa_ws/devel/.private/camera_demo/lib/pkgconfig/camera_demo.pc, /home/amiga/iowa_ws/devel/lib/pkgconfig/camera_demo.pc)
-Linked: (/home/amiga/iowa_ws/devel/.private/camera_demo/share/camera_demo/cmake/camera_demoConfig-version.cmake, /home/amiga/iowa_ws/devel/share/camera_demo/cmake/camera_demoConfig-version.cmake)
-Linked: (/home/amiga/iowa_ws/devel/.private/camera_demo/share/camera_demo/cmake/camera_demoConfig.cmake, /home/amiga/iowa_ws/devel/share/camera_demo/cmake/camera_demoConfig.cmake)
+Symlinking /home/amiga/iowa_ws/devel/lib/camera_demo/cmake.lock
+Symlinking /home/amiga/iowa_ws/devel/lib/camera_demo/color_recognition.py
+Symlinking /home/amiga/iowa_ws/devel/lib/pkgconfig/camera_demo.pc
+Symlinking /home/amiga/iowa_ws/devel/share/camera_demo/cmake/camera_demoConfig-version.cmake
+Symlinking /home/amiga/iowa_ws/devel/share/camera_demo/cmake/camera_demoConfig.cmake

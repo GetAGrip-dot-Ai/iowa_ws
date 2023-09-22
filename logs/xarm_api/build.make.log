@@ -1,11 +1,31 @@
 [  0%] Built target xarm_msgs_generate_messages_cpp
-[ 20%] Built target xarm_ros_client
-[ 20%] Built target example1_report_norm
-[ 30%] Built target servo_cartesian_test
-[ 40%] Built target move_test
-[ 50%] Built target xarm_ros_driver
-[ 60%] Built target test_xarm_states
-[ 70%] Built target test_tool_modbus
-[ 80%] Built target test_xarm_ros_client
-[ 90%] Built target test_xarm_velo_move
+[  5%] [32mBuilding CXX object CMakeFiles/xarm_ros_driver.dir/src/xarm_driver.cpp.o[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/xarm_ros_client.dir/src/xarm_ros_client.cpp.o[0m
+[ 15%] [32mBuilding CXX object CMakeFiles/example1_report_norm.dir/test/example1_report_norm.cpp.o[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/servo_cartesian_test.dir/test/servo_cartesian_test.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/move_test.dir/test/move_test.cpp.o[0m
+[ 30%] [32m[1mLinking CXX executable /home/amiga/iowa_ws/devel/.private/xarm_api/lib/xarm_api/example1_report_norm[0m
+[ 30%] Built target example1_report_norm
+[ 35%] [32m[1mLinking CXX executable /home/amiga/iowa_ws/devel/.private/xarm_api/lib/xarm_api/move_test[0m
+[ 35%] Built target move_test
+[ 40%] [32m[1mLinking CXX shared library /home/amiga/iowa_ws/devel/.private/xarm_api/lib/libxarm_ros_client.so[0m
+[ 40%] Built target xarm_ros_client
+[ 45%] [32mBuilding CXX object CMakeFiles/test_tool_modbus.dir/test/test_tool_modbus.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/test_xarm_ros_client.dir/test/test_xarm_ros_client.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/test_xarm_velo_move.dir/test/test_xarm_velo_move.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/test_xarm_states.dir/test/test_xarm_states.cpp.o[0m
+[ 65%] [32m[1mLinking CXX executable /home/amiga/iowa_ws/devel/.private/xarm_api/lib/xarm_api/servo_cartesian_test[0m
+[ 65%] Built target servo_cartesian_test
+[ 70%] [32m[1mLinking CXX executable /home/amiga/iowa_ws/devel/.private/xarm_api/lib/xarm_api/test_xarm_ros_client[0m
+[ 70%] Built target test_xarm_ros_client
+[ 75%] [32m[1mLinking CXX executable /home/amiga/iowa_ws/devel/.private/xarm_api/lib/xarm_api/test_xarm_velo_move[0m
+[ 75%] Built target test_xarm_velo_move
+[ 80%] [32m[1mLinking CXX executable /home/amiga/iowa_ws/devel/.private/xarm_api/lib/xarm_api/test_tool_modbus[0m
+[ 80%] Built target test_tool_modbus
+[ 85%] [32m[1mLinking CXX executable /home/amiga/iowa_ws/devel/.private/xarm_api/lib/xarm_api/test_xarm_states[0m
+[ 85%] Built target test_xarm_states
+[ 90%] [32m[1mLinking CXX shared library /home/amiga/iowa_ws/devel/.private/xarm_api/lib/libxarm_ros_driver.so[0m
+[ 90%] Built target xarm_ros_driver
+[ 95%] [32mBuilding CXX object CMakeFiles/xarm_driver_node.dir/src/xarm_driver_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/amiga/iowa_ws/devel/.private/xarm_api/lib/xarm_api/xarm_driver_node[0m
 [100%] Built target xarm_driver_node

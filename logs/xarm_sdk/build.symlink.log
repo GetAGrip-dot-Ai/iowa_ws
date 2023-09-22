@@ -1,4 +1,4 @@
-Linked: (/home/amiga/iowa_ws/devel/.private/xarm_sdk/lib/libxarm_cxx_sdk.so, /home/amiga/iowa_ws/devel/lib/libxarm_cxx_sdk.so)
-Linked: (/home/amiga/iowa_ws/devel/.private/xarm_sdk/lib/pkgconfig/xarm_sdk.pc, /home/amiga/iowa_ws/devel/lib/pkgconfig/xarm_sdk.pc)
-Linked: (/home/amiga/iowa_ws/devel/.private/xarm_sdk/share/xarm_sdk/cmake/xarm_sdkConfig-version.cmake, /home/amiga/iowa_ws/devel/share/xarm_sdk/cmake/xarm_sdkConfig-version.cmake)
-Linked: (/home/amiga/iowa_ws/devel/.private/xarm_sdk/share/xarm_sdk/cmake/xarm_sdkConfig.cmake, /home/amiga/iowa_ws/devel/share/xarm_sdk/cmake/xarm_sdkConfig.cmake)
+Symlinking /home/amiga/iowa_ws/devel/lib/libxarm_cxx_sdk.so
+Symlinking /home/amiga/iowa_ws/devel/lib/pkgconfig/xarm_sdk.pc
+Symlinking /home/amiga/iowa_ws/devel/share/xarm_sdk/cmake/xarm_sdkConfig-version.cmake
+Symlinking /home/amiga/iowa_ws/devel/share/xarm_sdk/cmake/xarm_sdkConfig.cmake

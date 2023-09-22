@@ -1,3 +1,3 @@
-Linked: (/home/amiga/iowa_ws/devel/.private/multi_xarm5/lib/pkgconfig/multi_xarm5.pc, /home/amiga/iowa_ws/devel/lib/pkgconfig/multi_xarm5.pc)
-Linked: (/home/amiga/iowa_ws/devel/.private/multi_xarm5/share/multi_xarm5/cmake/multi_xarm5Config-version.cmake, /home/amiga/iowa_ws/devel/share/multi_xarm5/cmake/multi_xarm5Config-version.cmake)
-Linked: (/home/amiga/iowa_ws/devel/.private/multi_xarm5/share/multi_xarm5/cmake/multi_xarm5Config.cmake, /home/amiga/iowa_ws/devel/share/multi_xarm5/cmake/multi_xarm5Config.cmake)
+Symlinking /home/amiga/iowa_ws/devel/lib/pkgconfig/multi_xarm5.pc
+Symlinking /home/amiga/iowa_ws/devel/share/multi_xarm5/cmake/multi_xarm5Config-version.cmake
+Symlinking /home/amiga/iowa_ws/devel/share/multi_xarm5/cmake/multi_xarm5Config.cmake

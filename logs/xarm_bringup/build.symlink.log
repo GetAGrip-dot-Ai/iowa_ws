@@ -1,3 +1,3 @@
-Linked: (/home/amiga/iowa_ws/devel/.private/xarm_bringup/lib/pkgconfig/xarm_bringup.pc, /home/amiga/iowa_ws/devel/lib/pkgconfig/xarm_bringup.pc)
-Linked: (/home/amiga/iowa_ws/devel/.private/xarm_bringup/share/xarm_bringup/cmake/xarm_bringupConfig-version.cmake, /home/amiga/iowa_ws/devel/share/xarm_bringup/cmake/xarm_bringupConfig-version.cmake)
-Linked: (/home/amiga/iowa_ws/devel/.private/xarm_bringup/share/xarm_bringup/cmake/xarm_bringupConfig.cmake, /home/amiga/iowa_ws/devel/share/xarm_bringup/cmake/xarm_bringupConfig.cmake)
+Symlinking /home/amiga/iowa_ws/devel/lib/pkgconfig/xarm_bringup.pc
+Symlinking /home/amiga/iowa_ws/devel/share/xarm_bringup/cmake/xarm_bringupConfig-version.cmake
+Symlinking /home/amiga/iowa_ws/devel/share/xarm_bringup/cmake/xarm_bringupConfig.cmake

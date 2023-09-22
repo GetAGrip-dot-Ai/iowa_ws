@@ -1,4 +1,4 @@
-Linked: (/home/amiga/iowa_ws/devel/.private/joy/lib/joy/joy_node, /home/amiga/iowa_ws/devel/lib/joy/joy_node)
-Linked: (/home/amiga/iowa_ws/devel/.private/joy/lib/pkgconfig/joy.pc, /home/amiga/iowa_ws/devel/lib/pkgconfig/joy.pc)
-Linked: (/home/amiga/iowa_ws/devel/.private/joy/share/joy/cmake/joyConfig-version.cmake, /home/amiga/iowa_ws/devel/share/joy/cmake/joyConfig-version.cmake)
-Linked: (/home/amiga/iowa_ws/devel/.private/joy/share/joy/cmake/joyConfig.cmake, /home/amiga/iowa_ws/devel/share/joy/cmake/joyConfig.cmake)
+Symlinking /home/amiga/iowa_ws/devel/lib/joy/joy_node
+Symlinking /home/amiga/iowa_ws/devel/lib/pkgconfig/joy.pc
+Symlinking /home/amiga/iowa_ws/devel/share/joy/cmake/joyConfig-version.cmake
+Symlinking /home/amiga/iowa_ws/devel/share/joy/cmake/joyConfig.cmake

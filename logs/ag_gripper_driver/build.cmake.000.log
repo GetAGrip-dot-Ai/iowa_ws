@@ -85,6 +85,6 @@ This warning is for project developers.  Use -Wno-dev to suppress it.
 [36m--[0m Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
 [36m--[0m ag_gripper_driver: 0 messages, 1 services
 [36m--[0m Installing devel-space wrapper /home/amiga/iowa_ws/src/ag_gripper_driver/scripts/gripper_node_wo_joy.py to /home/amiga/iowa_ws/devel/.private/ag_gripper_driver/lib/ag_gripper_driver
-[36m--[0m Configuring done (1.5s)
+[36m--[0m Configuring done (1.3s)
 [36m--[0m Generating done (0.0s)
 [36m--[0m Build files have been written to: /home/amiga/iowa_ws/build/ag_gripper_driver

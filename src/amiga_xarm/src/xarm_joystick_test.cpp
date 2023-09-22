@@ -10,7 +10,7 @@
 #include <std_msgs/String.h>
 
 #define FREQUENCY 50
-#define JOYSTICK_TOPIC "joy"
+#define JOYSTICK_TOPIC "joy_relay"
 
 class JoystickController
 {

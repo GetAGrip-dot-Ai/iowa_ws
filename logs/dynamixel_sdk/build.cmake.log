@@ -91,6 +91,6 @@ This warning is for project developers.  Use -Wno-dev to suppress it.
 [36m--[0m Installing devel-space wrapper /home/amiga/iowa_ws/src/DynamixelSDK/ros/dynamixel_sdk/src/dynamixel_sdk/protocol1_packet_handler.py to /home/amiga/iowa_ws/devel/.private/dynamixel_sdk/lib/dynamixel_sdk
 [36m--[0m Installing devel-space wrapper /home/amiga/iowa_ws/src/DynamixelSDK/ros/dynamixel_sdk/src/dynamixel_sdk/protocol2_packet_handler.py to /home/amiga/iowa_ws/devel/.private/dynamixel_sdk/lib/dynamixel_sdk
 [36m--[0m Installing devel-space wrapper /home/amiga/iowa_ws/src/DynamixelSDK/ros/dynamixel_sdk/src/dynamixel_sdk/robotis_def.py to /home/amiga/iowa_ws/devel/.private/dynamixel_sdk/lib/dynamixel_sdk
-[36m--[0m Configuring done (2.6s)
+[36m--[0m Configuring done (1.7s)
 [36m--[0m Generating done (0.0s)
 [36m--[0m Build files have been written to: /home/amiga/iowa_ws/build/dynamixel_sdk

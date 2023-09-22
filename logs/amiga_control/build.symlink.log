@@ -1,5 +1,5 @@
-Linked: (/home/amiga/iowa_ws/devel/.private/amiga_control/lib/amiga_control/cmake.lock, /home/amiga/iowa_ws/devel/lib/amiga_control/cmake.lock)
-Linked: (/home/amiga/iowa_ws/devel/.private/amiga_control/lib/amiga_control/amiga_control.py, /home/amiga/iowa_ws/devel/lib/amiga_control/amiga_control.py)
-Linked: (/home/amiga/iowa_ws/devel/.private/amiga_control/lib/pkgconfig/amiga_control.pc, /home/amiga/iowa_ws/devel/lib/pkgconfig/amiga_control.pc)
-Linked: (/home/amiga/iowa_ws/devel/.private/amiga_control/share/amiga_control/cmake/amiga_controlConfig-version.cmake, /home/amiga/iowa_ws/devel/share/amiga_control/cmake/amiga_controlConfig-version.cmake)
-Linked: (/home/amiga/iowa_ws/devel/.private/amiga_control/share/amiga_control/cmake/amiga_controlConfig.cmake, /home/amiga/iowa_ws/devel/share/amiga_control/cmake/amiga_controlConfig.cmake)
+Symlinking /home/amiga/iowa_ws/devel/lib/amiga_control/cmake.lock
+Symlinking /home/amiga/iowa_ws/devel/lib/amiga_control/amiga_control.py
+Symlinking /home/amiga/iowa_ws/devel/lib/pkgconfig/amiga_control.pc
+Symlinking /home/amiga/iowa_ws/devel/share/amiga_control/cmake/amiga_controlConfig-version.cmake
+Symlinking /home/amiga/iowa_ws/devel/share/amiga_control/cmake/amiga_controlConfig.cmake
